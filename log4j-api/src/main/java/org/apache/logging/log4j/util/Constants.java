@@ -22,6 +22,7 @@ package org.apache.logging.log4j.util;
  * @since 2.6.2
  */
 public final class Constants {
+
     /**
      * {@code true} if we think we are running in a web container, based on the boolean value of system property
      * "log4j2.is.webapp", or (if this system property is not set) whether the  {@code javax.servlet.Servlet} class
